@@ -10,14 +10,14 @@ const siteConfig = {
     title: 'Student',
     image: getAsset('images/image.png'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'BSc Economics with Data Science.\n' +
       '\n' +
       'Mention your institution or company, areas of interest, and what you teach or build.\n' +
       '\n' +
       'Summarize your education or certifications briefly and highlight your practical work.\n' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Bachelor of Economics with Data Science, Christ University',
+    tagline: ' Christ University',
     location: 'Bengaluru, India',
   },
 
