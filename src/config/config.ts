@@ -17,7 +17,7 @@ const siteConfig = {
       'Summarize your education or certifications briefly and highlight your practical work.\n' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Bachelor of Economics with Data Science,Christ University',
+    tagline: 'Bachelor of Economics with Data Science, Christ University',
     location: 'Bengaluru, India',
   },
 
