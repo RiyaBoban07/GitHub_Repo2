@@ -6,8 +6,8 @@ export const getAsset = (path: string) => {
 
 const siteConfig = {
   personal: {
-    name: 'Put your name inside the quote',
-    title: 'Your Title | Your Role',
+    name: 'Riya',
+    title: 'Student',
     image: getAsset('images/profile.png'), // Customize or replace with your profile image
     description:
       'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
@@ -17,12 +17,12 @@ const siteConfig = {
       'Summarize your education or certifications briefly and highlight your practical work.\n' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Add a concise personal tagline here.',
-    location: 'Your City, Country',
+    tagline: 'Bachelor of Economics with Data Science,Christ University',
+    location: 'Bengaluru, India',
   },
 
   seo: {
-    title: 'Your Name – Your Title',
+    title: 'Riya – Student',
     description: "Portfolio website showcasing your education, research, projects, and experience.",
   },
 
